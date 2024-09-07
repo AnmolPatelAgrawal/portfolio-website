@@ -39,7 +39,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
           href={"https://github.com/AnmolPatelAgrawal/"}
         >
           <Github
@@ -58,7 +58,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
           href={"https://www.instagram.com/call.me.annie_/"}
         >
           <Instagram
@@ -76,7 +76,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
           href={"https://www.linkedin.com/in/anmol-agrawal-77b550237/"}
         >
           <Linkdin
